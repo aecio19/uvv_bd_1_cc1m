@@ -1,12 +1,6 @@
-Aluno: Aécio Neto - CC1M
+Problem Set 1 - Prof. Abrantes.
 
-Professor: Abrantes Araujo Silva Filho
+Este PSET foi nos atribuido com o intuito de aumentarmos nossa experiência com bancos de dados e sistemas de gerenciamento de banco de dados, no presente trabalho, foram utilizados os seguintes SGBDs:
 
-No presente PSET, será trabalhado:
-
-
-1. O uso de GIT
-2. Como usar o GitHub
-3. A aprendizagem do GitHub Flavored Markdown
-4. Criação de Scripts SQL
-5. Implementação de Scripts SQL nos SGBDs PostgreSQl e MariaDB/MySQL
+1. PostgreSQL
+2. MariaDB/MySQL
