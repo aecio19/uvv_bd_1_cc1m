@@ -4,3 +4,5 @@ Este PSET foi nos atribuido com o intuito de aumentarmos nossa experiência com 
 
 1. PostgreSQL
 2. MariaDB/MySQL
+
+Além disso, tivemos nossa primeira experiência com sistemas de controle de versões, que neste caso, utilizamos o Git.
