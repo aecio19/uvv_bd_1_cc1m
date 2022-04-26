@@ -24,5 +24,5 @@ senha: sql123
 CREATE SCHEMA elmasri;
 SET SEARCH_PATH TO elmasri, '$user', public;
 
-ALTER USER gabriel
+ALTER USER aecio
 SET SEARCH_PATH TO elmarsi, '$user', public;
